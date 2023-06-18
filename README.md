@@ -1,1 +1,2 @@
-# lviv-iot-computer-networks
+This repository contains all 9 lab tasks and reports of the course "Computer Networks" on Internet of Things program at the Lviv Polytechnic National University.
+Tasks can be found in the folder `tasks`.
